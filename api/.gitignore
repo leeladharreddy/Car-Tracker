@@ -1,4 +1,7 @@
 target
-build*.class
+build
+*.class
 .settings
-.metadata.ideaapi.iml
+.metadata
+.idea
+api.iml
