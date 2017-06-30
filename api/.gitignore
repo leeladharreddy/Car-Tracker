@@ -1,11 +1,4 @@
 target
-
-build
-
-*.class
-
+build*.class
 .settings
-
-.metadata
-.idea
-api.iml
+.metadata.ideaapi.iml
